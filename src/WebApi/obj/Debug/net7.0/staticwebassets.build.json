@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pkHG6uG+XpVH+54yyoujsqZkTPUsgEIZ8CAeBX77s0E=",
+  "Hash": "/bywObmjU+Dfnt6GHT/rtXuAxjDdBAVtiQM6VTT3RGI=",
   "Source": "WebApi",
   "BasePath": "_content/WebApi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebApi\\wwwroot",
       "Source": "WebApi",
-      "ContentRoot": "C:\\Users\\AYC\\Desktop\\CapstoneProject\\src\\WebApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AYC\\Desktop\\UpSchool-CapstoneProject\\src\\WebApi\\wwwroot\\",
       "BasePath": "_content/WebApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\AYC\\Desktop\\CapstoneProject\\src\\WebApi\\wwwroot\\email_templates\\email_confirmation.html",
+      "Identity": "C:\\Users\\AYC\\Desktop\\UpSchool-CapstoneProject\\src\\WebApi\\wwwroot\\email_templates\\email_confirmation.html",
       "SourceId": "WebApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\AYC\\Desktop\\CapstoneProject\\src\\WebApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\AYC\\Desktop\\UpSchool-CapstoneProject\\src\\WebApi\\wwwroot\\",
       "BasePath": "_content/WebApi",
       "RelativePath": "email_templates/email_confirmation.html",
       "AssetKind": "All",

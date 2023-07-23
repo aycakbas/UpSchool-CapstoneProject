@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AYC\\Desktop\\CapstoneProject\\tests\\Application.UnitTests\\Application.UnitTests.csproj": {}
+    "C:\\Users\\AYC\\Desktop\\UpSchool-CapstoneProject\\tests\\Application.UnitTests\\Application.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AYC\\Desktop\\CapstoneProject\\tests\\Application.UnitTests\\Application.UnitTests.csproj": {
+    "C:\\Users\\AYC\\Desktop\\UpSchool-CapstoneProject\\tests\\Application.UnitTests\\Application.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AYC\\Desktop\\CapstoneProject\\tests\\Application.UnitTests\\Application.UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\AYC\\Desktop\\UpSchool-CapstoneProject\\tests\\Application.UnitTests\\Application.UnitTests.csproj",
         "projectName": "Application.UnitTests",
-        "projectPath": "C:\\Users\\AYC\\Desktop\\CapstoneProject\\tests\\Application.UnitTests\\Application.UnitTests.csproj",
+        "projectPath": "C:\\Users\\AYC\\Desktop\\UpSchool-CapstoneProject\\tests\\Application.UnitTests\\Application.UnitTests.csproj",
         "packagesPath": "C:\\Users\\AYC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AYC\\Desktop\\CapstoneProject\\tests\\Application.UnitTests\\obj\\",
+        "outputPath": "C:\\Users\\AYC\\Desktop\\UpSchool-CapstoneProject\\tests\\Application.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

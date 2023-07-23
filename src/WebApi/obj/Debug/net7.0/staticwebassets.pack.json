@@ -1,7 +1,7 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\AYC\\Desktop\\CapstoneProject\\src\\WebApi\\wwwroot\\email_templates\\email_confirmation.html",
+      "Id": "C:\\Users\\AYC\\Desktop\\UpSchool-CapstoneProject\\src\\WebApi\\wwwroot\\email_templates\\email_confirmation.html",
       "PackagePath": "staticwebassets\\email_templates\\email_confirmation.html"
     },
     {
