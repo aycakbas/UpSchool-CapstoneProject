@@ -1,4 +1,6 @@
 # UpSchool-CapstoneProject
  
-https://github.com/aycakbas/UpSchool-CapstoneProject/assets/121265757/9bfa05b0-f4a7-4d97-8c17-851b15279db9
+https://github.com/aycakbas/UpSchool-CapstoneProject/assets/121265757/e6fa79f8-a1ea-4ba6-9a59-5eb101773467
+
+
 
